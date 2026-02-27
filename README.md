@@ -5,7 +5,6 @@
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=28&pause=500&speed=80&color=833AB4&center=true&vCenter=true&width=600&lines=Java+Developer;Angular+Developer;Full+Stack+Developer+%F0%9F%9A%80" />
 </h2>
---
 
 ## ✨ About Me
 

@@ -64,31 +64,33 @@ Always learning. Always building. 🚀
 ---
 # 🚀 Projects
 
+<br>
+
 <table width="100%">
 <tr>
 
 <td width="48%" valign="top">
 
-<details>
-<summary>
+<div align="center">
 
-### 🛍️ E-Commerce Website  
-🌐 https://ecommerce-by-aaditya.netlify.app/
+## 🛍️ E-Commerce Website
 
-</summary>
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://ecommerce-by-aaditya.netlify.app/)
 
 <br>
 
-🛠 **Tech Stack:** HTML • CSS • JavaScript  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</div>
 
 ---
 
-- Responsive e-commerce UI.  
-- Interactive product behavior using JavaScript.  
-- Clean layout & structured styling.  
-- Deployed on Netlify.
-
-</details>
+✨ Modern responsive e-commerce UI  
+✨ Interactive product behavior  
+✨ Clean structured layout  
+✨ Deployed on Netlify  
 
 </td>
 
@@ -96,32 +98,31 @@ Always learning. Always building. 🚀
 
 <td width="48%" valign="top">
 
-<details>
-<summary>
+<div align="center">
 
-### 🎨 3D Frontend Projects  
-🌐 https://3d-projects-aaditya.netlify.app/
+## 🎨 3D Frontend Projects
 
-</summary>
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://3d-projects-aaditya.netlify.app/)
 
 <br>
 
-🛠 **Tech Stack:** HTML • CSS • JavaScript  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</div>
 
 ---
 
-- Interactive 3D-style UI components.  
-- JavaScript-based animations & effects.  
-- Creative frontend experiments.  
-- Deployed on Netlify.
-
-</details>
+✨ Interactive 3D UI components  
+✨ Smooth animations & effects  
+✨ Creative frontend experiments  
+✨ Deployed on Netlify  
 
 </td>
 
 </tr>
 </table>
-
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Aaditya-here&theme=rose&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=Aaditya-here&theme=rose&hide_border=false)

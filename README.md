@@ -35,18 +35,7 @@ I’m a **Java Backend Developer** with 2.5+ years of experience building scalab
 
 ---
 
-## 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Java-E1306C?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-833AB4?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-FCAF45?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-E1306C?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Angular-833AB4?style=for-the-badge&logo=angular&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-FCAF45?style=for-the-badge&logo=docker&logoColor=white"/>
-
-</p>
+<img src="https://img.shields.io/badge/Hibernate-FCAF45?style=for-the-badge&logo=hibernate&logoColor=white"/>
 
 ---
 

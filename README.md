@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=28&pause=1000&color=E1306C&center=true&vCenter=true&width=600&lines=Aaditya+Patil" />
+  Aaditya Patil
 </h1>
 
-<h2 align="center">
+<h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=28&pause=1000&color=E1306C&center=true&vCenter=true&width=600&lines=Java+Developer;Angular+Developer;Full+Stack+Developer+%F0%9F%9A%80" />
-</h2>
+</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/2.5+_Years_Experience-833AB4?style=for-the-badge&logoColor=white"/>

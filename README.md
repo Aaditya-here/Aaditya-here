@@ -1,5 +1,3 @@
-<div style="font-family: Verdana, Geneva, sans-serif;">
-
 ## 👋 About Me
 
 I'm Aaditya, a Java Backend Developer with 2.5+ years of industry experience.
@@ -15,26 +13,23 @@ Recently, I decided to restart my DSA journey to strengthen my fundamentals and 
 
 Always learning. Always building. 🚀
 
-
 ---
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100010195008751) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/aaditya___here/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaditya-patil08)  
+[![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](https://github.com/Aaditya-here)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aadityapatilpush@gmail.com)
-
 
 ---
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -44,8 +39,8 @@ Always learning. Always building. 🚀
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 
-
 ---
+
 # 💼 Professional Experience
 
 <table>
@@ -88,18 +83,61 @@ Always learning. Always building. 🚀
 
 </td>
 </tr>
-</table># 📊 GitHub Stats:
+</table>
+
+---
+
+# 🚀 Projects
+
+<br>
+
+<table>
+<tr>
+<td width="100%">
+
+### 🛍️ E-Commerce Website by Aaditya  
+🌐 **Live Demo:** https://ecommerce-by-aaditya.netlify.app/  
+🛠 **Tech Stack:** HTML, CSS  
+
+<hr>
+
+- Designed and developed a responsive frontend e-commerce website.  
+- Built modern UI layout with product sections and structured styling.  
+- Focused on clean design and user-friendly experience.  
+- Deployed on Netlify for public access.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td width="100%">
+
+### 🎨 3D Frontend Projects  
+🌐 **Live Demo:** https://3d-projects-aaditya.netlify.app/  
+🛠 **Tech Stack:** HTML, CSS  
+
+<hr>
+
+- Developed interactive and visually engaging frontend layouts.  
+- Implemented creative UI components and structured styling.  
+- Focused on design experimentation and frontend enhancement.  
+- Deployed on Netlify for live hosting.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Aaditya-here&theme=rose&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=Aaditya-here&theme=rose&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya-here&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
 ![](https://visitcount.itsvg.in/api?id=Aaditya-here&icon=0&color=0)
-
-</div>

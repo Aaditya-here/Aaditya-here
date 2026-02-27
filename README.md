@@ -62,45 +62,65 @@ Always learning. Always building. 🚀
 
 ---
 ---
-
 # 🚀 Projects
 
 <table width="100%">
 <tr>
 
-<td width="50%" valign="top">
+<td width="48%" valign="top">
+
+<details>
+<summary>
 
 ### 🛍️ E-Commerce Website  
-🌐 **Live:** https://ecommerce-by-aaditya.netlify.app/  
-🛠 HTML • CSS  
+🌐 https://ecommerce-by-aaditya.netlify.app/
+
+</summary>
+
+<br>
+
+🛠 **Tech Stack:** HTML • CSS • JavaScript  
 
 ---
 
 - Responsive e-commerce UI.  
-- Clean product layout & navigation.  
-- Focused on modern frontend design.  
+- Interactive product behavior using JavaScript.  
+- Clean layout & structured styling.  
 - Deployed on Netlify.
+
+</details>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="4%"></td>
+
+<td width="48%" valign="top">
+
+<details>
+<summary>
 
 ### 🎨 3D Frontend Projects  
-🌐 **Live:** https://3d-projects-aaditya.netlify.app/  
-🛠 HTML • CSS  
+🌐 https://3d-projects-aaditya.netlify.app/
+
+</summary>
+
+<br>
+
+🛠 **Tech Stack:** HTML • CSS • JavaScript  
 
 ---
 
 - Interactive 3D-style UI components.  
+- JavaScript-based animations & effects.  
 - Creative frontend experiments.  
-- Structured styling & animations.  
 - Deployed on Netlify.
+
+</details>
 
 </td>
 
 </tr>
 </table>
----
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Aaditya-here&theme=rose&hide_border=false&include_all_commits=false&count_private=false)

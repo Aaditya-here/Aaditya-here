@@ -46,30 +46,49 @@ Always learning. Always building. 🚀
 
 
 ---
-
 # 💼 Professional Experience
 
-### 🏢 Software Developer — Kumar IT Solutions  
-📍 Pune, Maharashtra | 🗓 Aug 2023 – Present  
+<table>
+<tr>
+<td width="100%">
+
+### 🏢 Software Developer  
+**Kumar IT Solutions**  
+📍 Pune, Maharashtra  
+🗓 Aug 2023 – Present  
+
+<hr>
 
 - Implemented JWT-based Authentication & RBAC for 6 user roles using Spring Boot, reducing unauthorized access incidents by 30%.  
 - Optimized Hibernate/JPA queries and resolved N+1 issues, improving API response time by 30%.  
 - Refactored service layers using SOLID principles, reducing QA-reported defects by 25%.  
 - Contributed to Agile sprints, CI/CD workflows, and stable production deployments.
 
----
+</td>
+</tr>
+</table>
 
-### 🏢 Software Developer Intern — Arysidh Technologies LLP  
-📍 Nashik, Maharashtra | 🗓 Feb 2023 – July 2023  
+<br>
+
+<table>
+<tr>
+<td width="100%">
+
+### 🏢 Software Developer Intern  
+**Arysidh Technologies LLP**  
+📍 Nashik, Maharashtra  
+🗓 Feb 2023 – July 2023  
+
+<hr>
 
 - Developed backend applications using Core Java & OOP principles.  
 - Built RESTful APIs using Spring Boot and integrated MySQL database.  
 - Implemented CRUD operations and optimized SQL queries.  
 - Participated in debugging, testing, and production support activities.
 
----
-
-# 📊 GitHub Stats:
+</td>
+</tr>
+</table># 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Aaditya-here&theme=rose&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=Aaditya-here&theme=rose&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya-here&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)

@@ -1,10 +1,16 @@
 <h1 align="center" style="color:#E1306C;">
- Hello....I'm Aaditya Patil
+  Aaditya Patil
 </h1>
 
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=28&pause=500&speed=80&color=833AB4&center=true&vCenter=true&width=600&lines=Java+Developer;Angular+Developer;Full+Stack+Developer+%F0%9F%9A%80" />
 </h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/2.5+_Years_Experience-E1306C?style=for-the-badge&logoColor=white"/>
+</p>
+
+---
 
 ## ✨ About Me
 
@@ -39,55 +45,15 @@ I’m a **Java Backend Developer** with 2.5+ years of experience building scalab
 
 <p align="center">
 
-<!-- Backend -->
 <img src="https://img.shields.io/badge/Java-E1306C?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-833AB4?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hibernate-FCAF45?style=for-the-badge&logo=hibernate&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microservices-E1306C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REST_API-833AB4?style=for-the-badge"/>
-
-<br><br>
-
-<!-- Frontend -->
-<img src="https://img.shields.io/badge/Angular-FCAF45?style=for-the-badge&logo=angular&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-E1306C?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-833AB4?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-FCAF45?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-E1306C?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-833AB4?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-
-<br><br>
-
-<!-- Database -->
+<img src="https://img.shields.io/badge/Spring-833AB4?style=for-the-badge&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-FCAF45?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<br><br>
-
-<!-- DevOps & Tools -->
-<img src="https://img.shields.io/badge/Docker-E1306C?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jenkins-833AB4?style=for-the-badge&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/SonarQube-FCAF45?style=for-the-badge&logo=sonarqube&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-E1306C?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-833AB4?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Maven-FCAF45?style=for-the-badge&logo=apachemaven&logoColor=white"/>
-
-<br><br>
-
-<!-- Monitoring & Testing -->
-<img src="https://img.shields.io/badge/Prometheus-E1306C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-833AB4?style=for-the-badge&logo=grafana&logoColor=white"/>
-<img src="https://img.shields.io/badge/Swagger-FCAF45?style=for-the-badge&logo=swagger&logoColor=white"/>
-<img src="https://img.shields.io/badge/JUnit-E1306C?style=for-the-badge&logo=junit5&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mockito-833AB4?style=for-the-badge"/>
-
-<br><br>
-
-<!-- Practices -->
-<img src="https://img.shields.io/badge/CI/CD-FCAF45?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Agile-E1306C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SOLID_Principles-833AB4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JavaScript-E1306C?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Angular-833AB4?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-FCAF45?style=for-the-badge&logo=docker&logoColor=white"/>
 
 </p>
+
 ---
 
 ## 💼 Experience

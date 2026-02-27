@@ -1,70 +1,83 @@
-## 👋 About Me
+<h1 align="center">Hi 👋, I'm Aaditya</h1>
+<h3 align="center">Java Backend Developer • 2.5+ Years Experience • DSA Enthusiast</h3>
 
-I'm Aaditya, a Java Backend Developer with 2.5+ years of industry experience.
+---
 
-I’ve built production systems, handled releases, fixed real-world bugs, and worked on scalable backend services.
+## 👨‍💻 About Me
 
-Recently, I decided to restart my DSA journey to strengthen my fundamentals and improve problem-solving depth.
+I’m a passionate **Java Backend Developer** with 2.5+ years of industry experience building scalable production systems.
 
-🔹 Tech Stack: Java, Spring Boot, REST APIs  
+I’ve worked on real-world deployments, performance optimizations, authentication systems, and backend architecture improvements.
+
+Currently sharpening my **Data Structures & Algorithms** to strengthen fundamentals and grow as a system-focused engineer.
+
+🔹 Backend: Java, Spring Boot, REST APIs  
 🔹 Database: MySQL  
-🔹 Interests: Backend Architecture, Clean Code, System Design  
-🔹 Currently Learning: Advanced DSA patterns & optimization techniques  
+🔹 Interests: Backend Architecture • Clean Code • System Design  
+🔹 Currently Learning: Advanced DSA Patterns  
 
-Always learning. Always building. 🚀
-
----
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaditya-patil08)  
-[![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](https://github.com/Aaditya-here)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aadityapatilpush@gmail.com)
+> *Always learning. Always building.* 🚀
 
 ---
 
-# 💻 Tech Stack
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+## 🌐 Connect With Me
 
--
+<p align="center">
+<a href="https://www.linkedin.com/in/aaditya-patil08">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/Aaditya-here">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:aadityapatilpush@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-2C5263?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/SonarQube-000000?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD"/>
+
+</p>
+
+---
+
 # 💼 Professional Experience
 
 ### 🏢 Software Developer — Kumar IT Solutions  
 📍 Pune, Maharashtra | 🗓 Aug 2023 – Present  
 
-- Implemented JWT-based Authentication & RBAC for 6 user roles using Spring Boot, reducing unauthorized access incidents by 30%.  
-- Optimized Hibernate/JPA queries and resolved N+1 issues, improving API response time by 30%.  
-- Refactored service layers using SOLID principles, reducing QA-reported defects by 25%.  
-- Contributed to Agile sprints, CI/CD workflows, and stable production deployments.
+- 🔐 Implemented JWT Authentication & RBAC (6 roles) → Reduced unauthorized access by **30%**  
+- ⚡ Optimized Hibernate/JPA & resolved N+1 → Improved API performance by **30%**  
+- 🧱 Refactored services using SOLID → Reduced QA defects by **25%**  
+- 🚀 Contributed to Agile sprints & CI/CD production releases  
 
 ---
 
 ### 🏢 Software Developer Intern — Arysidh Technologies LLP  
 📍 Nashik, Maharashtra | 🗓 Feb 2023 – July 2023  
 
-- Developed backend applications using Core Java & OOP principles.  
-- Built RESTful APIs using Spring Boot and integrated MySQL database.  
-- Implemented CRUD operations and optimized SQL queries.  
-- Participated in debugging, testing, and production support activities.
+- Built backend modules using Core Java & OOP  
+- Developed REST APIs using Spring Boot  
+- Integrated MySQL & optimized SQL queries  
+- Assisted in debugging & production support  
 
 ---
----
+
 # 🚀 Projects
-
-<br>
 
 <table width="100%">
 <tr>
@@ -75,19 +88,21 @@ Always learning. Always building. 🚀
 
 ## 🛍️ E-Commerce Website
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://ecommerce-by-aaditya.netlify.app/)
+<a href="https://ecommerce-by-aaditya.netlify.app/">
+<img src="https://img.shields.io/badge/View-Live-success?style=for-the-badge"/>
+</a>
 
-<br>
+<br><br>
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 
 </div>
 
 ---
 
-✨ Modern responsive e-commerce UI  
+✨ Modern responsive UI  
 ✨ Interactive product behavior  
 ✨ Clean structured layout  
 ✨ Deployed on Netlify  
@@ -102,13 +117,15 @@ Always learning. Always building. 🚀
 
 ## 🎨 3D Frontend Projects
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://3d-projects-aaditya.netlify.app/)
+<a href="https://3d-projects-aaditya.netlify.app/">
+<img src="https://img.shields.io/badge/View-Live-success?style=for-the-badge"/>
+</a>
 
-<br>
+<br><br>
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 
 </div>
 
@@ -123,11 +140,19 @@ Always learning. Always building. 🚀
 
 </tr>
 </table>
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Aaditya-here&theme=rose&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Aaditya-here&theme=rose&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya-here&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
-![](https://visitcount.itsvg.in/api?id=Aaditya-here&icon=0&color=0)
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Aaditya-here&theme=rose&hide_border=false"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=Aaditya-here&theme=rose&hide_border=false"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya-here&theme=rose&layout=compact"/>
+</p>
+
+---
+
+<p align="center">
+<img src="https://visitcount.itsvg.in/api?id=Aaditya-here&icon=0&color=0"/>
+</p>

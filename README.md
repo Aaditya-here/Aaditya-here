@@ -40,46 +40,39 @@ Always learning. Always building. 🚀
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 
 ---
-
 # 💼 Professional Experience
 
-<table>
+<table width="100%">
 <tr>
-<td width="100%">
+<td width="50%" valign="top">
 
 ### 🏢 Software Developer  
 **Kumar IT Solutions**  
 📍 Pune, Maharashtra  
 🗓 Aug 2023 – Present  
 
-<hr>
+---
 
-- Implemented JWT-based Authentication & RBAC for 6 user roles using Spring Boot, reducing unauthorized access incidents by 30%.  
-- Optimized Hibernate/JPA queries and resolved N+1 issues, improving API response time by 30%.  
-- Refactored service layers using SOLID principles, reducing QA-reported defects by 25%.  
-- Contributed to Agile sprints, CI/CD workflows, and stable production deployments.
+- Implemented JWT-based Authentication & RBAC (6 roles).  
+- Improved API performance by 30% resolving N+1 issues.  
+- Reduced QA bugs by 25% using SOLID refactoring.  
+- Contributed to Agile & CI/CD deployments.
 
 </td>
-</tr>
-</table>
 
-<br>
-
-<table>
-<tr>
-<td width="100%">
+<td width="50%" valign="top">
 
 ### 🏢 Software Developer Intern  
 **Arysidh Technologies LLP**  
 📍 Nashik, Maharashtra  
 🗓 Feb 2023 – July 2023  
 
-<hr>
+---
 
-- Developed backend applications using Core Java & OOP principles.  
-- Built RESTful APIs using Spring Boot and integrated MySQL database.  
-- Implemented CRUD operations and optimized SQL queries.  
-- Participated in debugging, testing, and production support activities.
+- Developed backend modules using Core Java & OOP.  
+- Built REST APIs using Spring Boot.  
+- Integrated MySQL and optimized SQL queries.  
+- Assisted in debugging & production support.
 
 </td>
 </tr>
@@ -89,48 +82,41 @@ Always learning. Always building. 🚀
 
 # 🚀 Projects
 
-<br>
-
-<table>
+<table width="100%">
 <tr>
-<td width="100%">
 
-### 🛍️ E-Commerce Website by Aaditya  
-🌐 **Live Demo:** https://ecommerce-by-aaditya.netlify.app/  
-🛠 **Tech Stack:** HTML, CSS  
+<td width="50%" valign="top">
 
-<hr>
+### 🛍️ E-Commerce Website  
+🌐 **Live:** https://ecommerce-by-aaditya.netlify.app/  
+🛠 HTML • CSS  
 
-- Designed and developed a responsive frontend e-commerce website.  
-- Built modern UI layout with product sections and structured styling.  
-- Focused on clean design and user-friendly experience.  
-- Deployed on Netlify for public access.
+---
+
+- Responsive e-commerce UI.  
+- Clean product layout & navigation.  
+- Focused on modern frontend design.  
+- Deployed on Netlify.
 
 </td>
-</tr>
-</table>
 
-<br>
-
-<table>
-<tr>
-<td width="100%">
+<td width="50%" valign="top">
 
 ### 🎨 3D Frontend Projects  
-🌐 **Live Demo:** https://3d-projects-aaditya.netlify.app/  
-🛠 **Tech Stack:** HTML, CSS  
+🌐 **Live:** https://3d-projects-aaditya.netlify.app/  
+🛠 HTML • CSS  
 
-<hr>
+---
 
-- Developed interactive and visually engaging frontend layouts.  
-- Implemented creative UI components and structured styling.  
-- Focused on design experimentation and frontend enhancement.  
-- Deployed on Netlify for live hosting.
+- Interactive 3D-style UI components.  
+- Creative frontend experiments.  
+- Structured styling & animations.  
+- Deployed on Netlify.
 
 </td>
+
 </tr>
 </table>
-
 ---
 
 # 📊 GitHub Stats

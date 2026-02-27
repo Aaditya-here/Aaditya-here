@@ -39,45 +39,28 @@ Always learning. Always building. 🚀
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 
----
+-
 # 💼 Professional Experience
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+### 🏢 Software Developer — Kumar IT Solutions  
+📍 Pune, Maharashtra | 🗓 Aug 2023 – Present  
 
-### 🏢 Software Developer  
-**Kumar IT Solutions**  
-📍 Pune, Maharashtra  
-🗓 Aug 2023 – Present  
-
----
-
-- Implemented JWT-based Authentication & RBAC (6 roles).  
-- Improved API performance by 30% resolving N+1 issues.  
-- Reduced QA bugs by 25% using SOLID refactoring.  
-- Contributed to Agile & CI/CD deployments.
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🏢 Software Developer Intern  
-**Arysidh Technologies LLP**  
-📍 Nashik, Maharashtra  
-🗓 Feb 2023 – July 2023  
+- Implemented JWT-based Authentication & RBAC for 6 user roles using Spring Boot, reducing unauthorized access incidents by 30%.  
+- Optimized Hibernate/JPA queries and resolved N+1 issues, improving API response time by 30%.  
+- Refactored service layers using SOLID principles, reducing QA-reported defects by 25%.  
+- Contributed to Agile sprints, CI/CD workflows, and stable production deployments.
 
 ---
 
-- Developed backend modules using Core Java & OOP.  
-- Built REST APIs using Spring Boot.  
-- Integrated MySQL and optimized SQL queries.  
-- Assisted in debugging & production support.
+### 🏢 Software Developer Intern — Arysidh Technologies LLP  
+📍 Nashik, Maharashtra | 🗓 Feb 2023 – July 2023  
 
-</td>
-</tr>
-</table>
+- Developed backend applications using Core Java & OOP principles.  
+- Built RESTful APIs using Spring Boot and integrated MySQL database.  
+- Implemented CRUD operations and optimized SQL queries.  
+- Participated in debugging, testing, and production support activities.
 
+---
 ---
 
 # 🚀 Projects

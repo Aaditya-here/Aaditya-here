@@ -1,37 +1,37 @@
-<h1 align="center" style="color:#bb86fc;">
+<h1 align="center" style="color:#E1306C;">
   Aaditya Patil
 </h1>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=28&pause=400&speed=70&color=bb86fc&center=true&vCenter=true&width=600&lines=Java+Developer;Angular+Developer;Full+Stack+Developer+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=28&pause=400&speed=70&color=833AB4&center=true&vCenter=true&width=600&lines=Java+Developer;Angular+Developer;Full+Stack+Developer+%F0%9F%9A%80" />
 </h2>
 
 ---
 
 ## ✨ About Me
 
-I’m a **Java Backend Developer** with 2.5+ years of experience building scalable production systems.
+I’m a <span style="color:#E1306C;"><b>Java Backend Developer</b></span> with 2.5+ years of experience building scalable production systems.
 
 🔐 JWT Authentication & RBAC  
 ⚡ Performance Optimization  
 🧱 Clean Architecture & SOLID  
 🚀 Continuous Learning & DSA Focus  
 
-> Consistency > Motivation.
+> <span style="color:#FCAF45;">Consistency > Motivation.</span>
 
 ---
 
-## 🌑 Connect With Me
+## 🌈 Connect With Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/aaditya-patil08">
-<img src="https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=bb86fc"/>
+<img src="https://img.shields.io/badge/LinkedIn-E1306C?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/Aaditya-here">
-<img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=bb86fc"/>
+<img src="https://img.shields.io/badge/GitHub-833AB4?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="mailto:aadityapatilpush@gmail.com">
-<img src="https://img.shields.io/badge/Email-121212?style=for-the-badge&logo=gmail&logoColor=bb86fc"/>
+<img src="https://img.shields.io/badge/Email-FCAF45?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
@@ -41,12 +41,12 @@ I’m a **Java Backend Developer** with 2.5+ years of experience building scalab
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Java-121212?style=for-the-badge&logo=openjdk&logoColor=bb86fc"/>
-<img src="https://img.shields.io/badge/Spring-121212?style=for-the-badge&logo=spring&logoColor=bb86fc"/>
-<img src="https://img.shields.io/badge/MySQL-121212?style=for-the-badge&logo=mysql&logoColor=bb86fc"/>
-<img src="https://img.shields.io/badge/JavaScript-121212?style=for-the-badge&logo=javascript&logoColor=bb86fc"/>
-<img src="https://img.shields.io/badge/Angular-121212?style=for-the-badge&logo=angular&logoColor=bb86fc"/>
-<img src="https://img.shields.io/badge/Docker-121212?style=for-the-badge&logo=docker&logoColor=bb86fc"/>
+<img src="https://img.shields.io/badge/Java-E1306C?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-833AB4?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-FCAF45?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-E1306C?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Angular-833AB4?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-FCAF45?style=for-the-badge&logo=docker&logoColor=white"/>
 
 </p>
 
@@ -57,7 +57,7 @@ I’m a **Java Backend Developer** with 2.5+ years of experience building scalab
 ### 🏢 Software Developer — Kumar IT Solutions  
 📍 Pune | Aug 2023 – Present  
 
-- 🚀 Improved API performance by 30%  
+- 🚀 <span style="color:#E1306C;">Improved API performance by 30%</span>  
 - 🔐 Implemented secure JWT + RBAC  
 - 🧱 Reduced QA defects by 25%  
 - ⚙ Agile deployments & CI/CD  
@@ -79,17 +79,17 @@ I’m a **Java Backend Developer** with 2.5+ years of experience building scalab
 
 <td width="48%" align="center">
 
-### 🛍️ E-Commerce UI
+### 🛍️ <span style="color:#E1306C;">E-Commerce UI</span>
 
 <a href="https://ecommerce-by-aaditya.netlify.app/">
-<img src="https://img.shields.io/badge/View_Live-121212?style=for-the-badge&logoColor=bb86fc"/>
+<img src="https://img.shields.io/badge/View_Live-833AB4?style=for-the-badge&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/HTML-121212?style=flat-square&logo=html5&logoColor=bb86fc"/>
-<img src="https://img.shields.io/badge/CSS-121212?style=flat-square&logo=css3&logoColor=bb86fc"/>
-<img src="https://img.shields.io/badge/JavaScript-121212?style=flat-square&logo=javascript&logoColor=bb86fc"/>
+<img src="https://img.shields.io/badge/HTML-E1306C?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-833AB4?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-FCAF45?style=flat-square&logo=javascript&logoColor=white"/>
 
 <br><br>
 
@@ -104,17 +104,17 @@ I’m a **Java Backend Developer** with 2.5+ years of experience building scalab
 
 <td width="48%" align="center">
 
-### 🎨 3D Frontend Projects
+### 🎨 <span style="color:#833AB4;">3D Frontend Projects</span>
 
 <a href="https://3d-projects-aaditya.netlify.app/">
-<img src="https://img.shields.io/badge/View_Live-121212?style=for-the-badge&logoColor=bb86fc"/>
+<img src="https://img.shields.io/badge/View_Live-E1306C?style=for-the-badge&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/HTML-121212?style=flat-square&logo=html5&logoColor=bb86fc"/>
-<img src="https://img.shields.io/badge/CSS-121212?style=flat-square&logo=css3&logoColor=bb86fc"/>
-<img src="https://img.shields.io/badge/JavaScript-121212?style=flat-square&logo=javascript&logoColor=bb86fc"/>
+<img src="https://img.shields.io/badge/HTML-833AB4?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-FCAF45?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-E1306C?style=flat-square&logo=javascript&logoColor=white"/>
 
 <br><br>
 
@@ -133,13 +133,13 @@ I’m a **Java Backend Developer** with 2.5+ years of experience building scalab
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Aaditya-here&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aaditya-here&theme=radical&hide_border=true"/>
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaditya-here&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaditya-here&theme=radical&hide_border=true"/>
 </p>
 
 ---
 
 <p align="center">
-🖤 Code. Create. Improve. Repeat.
+💗 Code. Create. Improve. Repeat.
 </p>

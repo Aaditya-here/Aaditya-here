@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaditya</h1>
-<h3 align="center">Java Backend Developer • 2.5+ Years Experience • DSA Enthusiast</h3>
+<h3 align="center">Java Full Stack Developer</h3>
 
 ---
 

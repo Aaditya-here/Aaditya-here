@@ -1,53 +1,54 @@
-<h1 align="center">Aaditya 👨‍💻</h1>
-<p align="center">
-Java Backend Developer • 2.5+ YOE • DSA Journey 🚀
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=28&pause=1000&color=E1306C&center=true&vCenter=true&width=600&lines=Aaditya+Patil;Java+Backend+Developer;Building+Scalable+Systems+🚀" />
+</h1>
 
 <p align="center">
-Building scalable systems | Writing clean code | Growing every day
-</p>
-
----
-
-<p align="center">
-<a href="https://www.linkedin.com/in/aaditya-patil08">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/Aaditya-here">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="mailto:aadityapatilpush@gmail.com">
-<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <img src="https://img.shields.io/badge/Backend_Engineer-E1306C?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/2.5+_Years_Experience-833AB4?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DSA_Journey-FCAF45?style=for-the-badge&logoColor=white"/>
 </p>
 
 ---
 
-## ✨ About
+## ✨ About Me
 
-I’m a **Java Backend Developer** with 2.5+ years of experience building production-ready applications.
+I’m a **Java Backend Developer** with 2.5+ years of experience building scalable production systems.
 
 🔐 JWT Authentication & RBAC  
 ⚡ Performance Optimization  
 🧱 Clean Architecture & SOLID  
-📦 CI/CD & Deployments  
+🚀 Continuous Learning & DSA Focus  
 
-Currently upgrading my **DSA & System Design skills** to the next level.
-
-> Stay consistent. Stay sharp.
+> Consistency > Motivation.
 
 ---
 
-## 🛠 Tech
+## 🌈 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/aaditya-patil08">
+<img src="https://img.shields.io/badge/LinkedIn-833AB4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/Aaditya-here">
+<img src="https://img.shields.io/badge/GitHub-E1306C?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:aadityapatilpush@gmail.com">
+<img src="https://img.shields.io/badge/Email-FCAF45?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 💻 Tech Stack
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-E1306C?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-833AB4?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-FCAF45?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-E1306C?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Angular-833AB4?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-FCAF45?style=for-the-badge&logo=docker&logoColor=white"/>
 
 </p>
 
@@ -55,19 +56,17 @@ Currently upgrading my **DSA & System Design skills** to the next level.
 
 ## 💼 Experience
 
-### 🏢 Software Developer  
-Kumar IT Solutions • Pune  
-Aug 2023 – Present  
+### 🏢 Software Developer — Kumar IT Solutions  
+📍 Pune | Aug 2023 – Present  
 
-- +30% API performance improvement  
-- +25% reduction in QA defects  
-- Secure JWT + RBAC implementation  
-- Agile delivery & production releases  
+- 🚀 Improved API performance by 30%  
+- 🔐 Implemented secure JWT + RBAC  
+- 🧱 Reduced QA defects by 25%  
+- ⚙ Agile deployments & CI/CD  
 
 ---
 
-### 🏢 Software Developer Intern  
-Arysidh Technologies  
+### 🏢 Software Developer Intern — Arysidh Technologies  
 
 - REST APIs using Spring Boot  
 - MySQL integration  
@@ -77,34 +76,58 @@ Arysidh Technologies
 
 ## 🚀 Projects
 
-<p align="center">
+<table width="100%">
+<tr>
 
-### 🛍️ E-Commerce UI  
+<td width="48%" align="center">
+
+### 🛍️ E-Commerce UI
+
 <a href="https://ecommerce-by-aaditya.netlify.app/">
-<img src="https://img.shields.io/badge/View_Project-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/View_Live-E1306C?style=for-the-badge&logoColor=white"/>
 </a>
 
 <br><br>
 
-### 🎨 3D Frontend Experiments  
+<img src="https://img.shields.io/badge/HTML-833AB4?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-FCAF45?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-E1306C?style=flat-square&logo=javascript&logoColor=white"/>
+
+</td>
+
+<td width="4%"></td>
+
+<td width="48%" align="center">
+
+### 🎨 3D Frontend Projects
+
 <a href="https://3d-projects-aaditya.netlify.app/">
-<img src="https://img.shields.io/badge/View_Project-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/View_Live-833AB4?style=for-the-badge&logoColor=white"/>
 </a>
 
-</p>
+<br><br>
+
+<img src="https://img.shields.io/badge/HTML-FCAF45?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-E1306C?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-833AB4?style=flat-square&logo=javascript&logoColor=white"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 📊 Stats
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Aaditya-here&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aaditya-here&theme=radical&hide_border=true"/>
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaditya-here&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaditya-here&theme=radical&hide_border=true"/>
 </p>
 
 ---
 
 <p align="center">
-<i>Code. Improve. Repeat.</i>
+💗 Code. Create. Improve. Repeat.
 </p>

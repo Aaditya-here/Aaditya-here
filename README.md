@@ -1,6 +1,5 @@
 <h1 align="center" style="color:#E1306C;">
-  Aaditya Patil
-</h1>
+Hello...I'm AADITYA PATIL</h1>
 
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=28&pause=400&speed=70&color=833AB4&center=true&vCenter=true&width=600&lines=Java+Developer;Angular+Developer;Full+Stack+Developer+%F0%9F%9A%80" />

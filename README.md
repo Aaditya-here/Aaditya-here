@@ -1,13 +1,13 @@
-<h1 align="center">
+<h1 align="center" style="color:#E1306C;">
   Aaditya Patil
 </h1>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=28&pause=1000&color=E1306C&center=true&vCenter=true&width=600&lines=Java+Developer;Angular+Developer;Full+Stack+Developer+%F0%9F%9A%80" />
-</h3>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=28&pause=500&speed=80&color=833AB4&center=true&vCenter=true&width=600&lines=Java+Developer;Angular+Developer;Full+Stack+Developer+%F0%9F%9A%80" />
+</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/2.5+_Years_Experience-833AB4?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/2.5+_Years_Experience-E1306C?style=for-the-badge&logoColor=white"/>
 </p>
 
 ---
@@ -95,6 +95,13 @@ I’m a **Java Backend Developer** with 2.5+ years of experience building scalab
 <img src="https://img.shields.io/badge/CSS-FCAF45?style=flat-square&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-E1306C?style=flat-square&logo=javascript&logoColor=white"/>
 
+<br><br>
+
+✨ Modern responsive e-commerce UI  
+✨ Interactive product functionality  
+✨ Clean and structured layout  
+✨ Fully deployed on Netlify  
+
 </td>
 
 <td width="4%"></td>
@@ -112,6 +119,13 @@ I’m a **Java Backend Developer** with 2.5+ years of experience building scalab
 <img src="https://img.shields.io/badge/HTML-FCAF45?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-E1306C?style=flat-square&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-833AB4?style=flat-square&logo=javascript&logoColor=white"/>
+
+<br><br>
+
+✨ Interactive 3D UI components  
+✨ Smooth animations & visual effects  
+✨ Creative frontend experiments  
+✨ Hosted on Netlify  
 
 </td>
 

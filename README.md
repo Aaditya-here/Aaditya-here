@@ -10,8 +10,7 @@ Hello...I'm AADITYA PATIL</h1>
 ## ✨ About Me
 
 I’m a <span style="color:#E1306C;"><b>Java Backend Developer</b></span> with 2.5+ years of experience building scalable production systems.
-
-🔐 JWT Authentication & RBAC  
+ 
 ⚡ Performance Optimization  
 🧱 Clean Architecture & SOLID  
 🚀 Continuous Learning & DSA Focus  

@@ -58,7 +58,8 @@ I’m a <span style="color:#E1306C;"><b>Java Backend Developer</b></span> with 2
 - 🚀 <span style="color:#E1306C;">Improved API performance by 30%</span>  
 - 🔐 Implemented secure JWT + RBAC  
 - 🧱 Reduced QA defects by 25%  
-- ⚙ Agile deployments & CI/CD  
+- ⚙ Agile deployments & CI/CD Pipelines
+  
 
 ---
 

@@ -13,7 +13,7 @@ I’m a <span style="color:#E1306C;"><b>Java Backend Developer</b></span> with 2
  
 ⚡ Performance Optimization  
 🧱 Clean Architecture & SOLID  
-🚀 Continuous Learning & DSA Focus  
+🚀 Continuous Learning & DSA Focus 
 
 > <span style="color:#FCAF45;">Consistency > Motivation.</span>
 

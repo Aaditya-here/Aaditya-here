@@ -30,6 +30,8 @@ I’m a <span style="color:#E1306C;"><b>Java Backend Developer</b></span> with 2
 </a>
 <a href="mailto:aadityapatilpush@gmail.com">
 <img src="https://img.shields.io/badge/Email-FCAF45?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+  
 </a>
 </p>
 

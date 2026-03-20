@@ -54,7 +54,7 @@ I’m a <span style="color:#E1306C;"><b>Java Backend Developer</b></span> with 2
 
 ## 💼 Experience
 
-### 🏢 Software Developer — Kumar IT Solutions  
+### 🏢 Software Developer — Kumar IT Solutions 
 📍 Pune | Aug 2023 – Present  
 
 - 🚀 <span style="color:#E1306C;">Improved API performance by 30%</span>  

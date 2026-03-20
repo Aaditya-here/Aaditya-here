@@ -68,7 +68,7 @@ I’m a <span style="color:#E1306C;"><b>Java Backend Developer</b></span> with 2
 ### 🏢 Software Developer Intern — Arysidh Technologies  
 
 - REST APIs using Spring Boot  
-- MySQL integration  
+- MySQL integration
 - Core Java backend modules  
 
 ---

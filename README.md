@@ -12,7 +12,7 @@ Hello...I'm AADITYA PATIL</h1>
 I’m a <span style="color:#E1306C;"><b>Java Backend Developer</b></span> with 2.5+ years of experience building scalable production systems. 
  
 ⚡ Performance Optimization
-🧱 Clean Architecture & SOLID
+🧱 Clean Architecture & SOLID 
 🚀 Continuous Learning & DSA Focus 
 
 > <span style="color:#FCAF45;">Consistency > Motivation.</span>

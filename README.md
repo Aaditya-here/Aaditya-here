@@ -37,7 +37,7 @@ I’m a <span style="color:#E1306C;"><b>Java Backend Developer</b></span> with 2
 
 ---
 
-## 💻 Tech Stack 
+## 💻 Tech Stack
 
 <p align="center">
 
